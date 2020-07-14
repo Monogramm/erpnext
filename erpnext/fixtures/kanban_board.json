@@ -1,0 +1,185 @@
+[
+ {
+  "columns": [
+   {
+    "column_name": "New",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Assignee Boards",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Ready",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Assignee Boards",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Open",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Assignee Boards",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "In progress",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Assignee Boards",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Closed",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Assignee Boards",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Kanban Board",
+  "field_name": "status",
+  "filters": null,
+  "kanban_board_name": "Assignee Boards",
+  "modified": "2020-07-14 09:14:59.279009",
+  "name": "Assignee Boards",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "private": 0,
+  "reference_doctype": "Ticket"
+ },
+ {
+  "columns": [
+   {
+    "column_name": "New",
+    "indicator": "darkgrey",
+    "order": "[]",
+    "parent": "Customer board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Ready",
+    "indicator": "blue",
+    "order": "[\"-qwer-001\"]",
+    "parent": "Customer board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Open",
+    "indicator": "darkgrey",
+    "order": "[]",
+    "parent": "Customer board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "In progress",
+    "indicator": "darkgrey",
+    "order": "[]",
+    "parent": "Customer board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Closed",
+    "indicator": "darkgrey",
+    "order": "[]",
+    "parent": "Customer board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Kanban Board",
+  "field_name": "status",
+  "filters": null,
+  "kanban_board_name": "Customer board",
+  "modified": "2020-07-14 10:00:31.909213",
+  "name": "Customer board",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "private": 0,
+  "reference_doctype": "Ticket"
+ },
+ {
+  "columns": [
+   {
+    "column_name": "New",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Manager board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Ready",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Manager board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Open",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Manager board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "In progress",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Manager board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   },
+   {
+    "column_name": "Closed",
+    "indicator": "darkgrey",
+    "order": null,
+    "parent": "Manager board",
+    "parentfield": "columns",
+    "parenttype": "Kanban Board",
+    "status": "Active"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Kanban Board",
+  "field_name": "status",
+  "filters": null,
+  "kanban_board_name": "Manager board",
+  "modified": "2020-07-14 09:17:27.849661",
+  "name": "Manager board",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "private": 0,
+  "reference_doctype": "Ticket"
+ }
+]
